@@ -1,0 +1,27 @@
+tittle {
+	color: #34495E;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: arial;
+	color: #34495E;
+}
+
+h2 {
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+	color: #34495E;
+}
+
+.tabel {
+	background-color: #C6C6C6;
+	color: #34495E;
+    border-radius:5px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top : auto;
+	font-size: 20px;
+	font-family: arial;
+}
